@@ -29,3 +29,11 @@ A Python-based file organizer that automatically sorts files in a folder into ca
 ---
 
 ## ✅ Project Structure
+
+SmartFileOrganizer/
+│
+├── main.py               # Entry point of the program (asks for folder path)
+├── file_organizer.py     # Core logic using OOP
+├── requirements.txt      # Dependencies (here: no external packages)
+└── README.md             # Documentation for GitHub
+
